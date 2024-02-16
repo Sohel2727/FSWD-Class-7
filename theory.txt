@@ -1,0 +1,10 @@
+====html elements(types)====
+1.Inline elements(required place)
+2.Block level elements(100% place)
+
+===some tag===
+del=delete
+div=division
+section
+<style></style>
+<script></script>
